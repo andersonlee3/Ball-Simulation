@@ -1,4 +1,3 @@
-# "I confirm that I did not use codes from anyone else and that the work I submit is my own and my own only"
 import math
 import matplotlib.pyplot as plt
 import numpy as np
